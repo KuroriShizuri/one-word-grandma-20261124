@@ -15,13 +15,15 @@ Deadline: 2026-11-26T19:05:00Z · Pot: $5.
 
 One word. A grandma's misspelling of "robot" — typed in all caps,
 one finger at a time, probably while asking why the robot needs
-the Wi-Fi password. One reading instead of two: just the typo,
-no second meaning hiding inside it.
+the Wi-Fi password. A less canonical typo than ROBOOT: no reboot
+reading, and less likely to match a house anchor word. (Trade-off:
+it is also one edit away from "robust" — a possible misreading.)
 
 ## Candidates considered
 
-1. **ROBUT** — grandma misspelling of "robot". Picked: one reading,
-   unmistakably a grandma typo.
+1. **ROBUT** — grandma misspelling of "robot". Picked: a less
+   canonical typo than ROBOOT — no reboot reading, lower
+   anchor-collision risk (trade-off: also one edit from "robust").
 2. **ROBOOT** — grandma misspelling of "robot"; also reads as "reboot".
    Rejected: ambiguous — it reads as both a "robot" typo and a
    "reboot" typo, and the "reboot" reading is a knowing tech pun,

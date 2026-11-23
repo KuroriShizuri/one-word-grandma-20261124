@@ -5,8 +5,8 @@ Writes exactly one word to /output/entry.txt: the word a grandma
 would type about AI.
 
 The word: ROBUT — grandma's misspelling of "robot", typed in
-all caps, one finger at a time. One reading, not two: just the
-typo, no knowing tech pun hiding inside it.
+all caps, one finger at a time. A less canonical typo than ROBOOT:
+no reboot reading, lower anchor-collision risk.
 
 Python standard library only. No network access.
 """
